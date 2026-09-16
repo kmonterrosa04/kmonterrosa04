@@ -21,7 +21,8 @@
 
 ## 📂 Projects
 
-### 🐍 Streaming Payment Manager
+### 🐍 [Streaming Payment Manager](https://github.com/kmonterrosa04/gestor-pagos-streaming)
+
 A Python application developed as part of my programming studies.
 
 ## 🎯 About my learning journey
