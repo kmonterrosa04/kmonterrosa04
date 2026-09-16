@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Karen Lorena 👋
 
-<!--
-**kmonterrosa04/kmonterrosa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Statistics student at Universidad Nacional de Colombia.
 
-Here are some ideas to get you started:
+📊 I'm interested in data analysis, statistical programming, and learning how to use data to understand real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- R
+- RStudio
+- Statistical analysis
+- Data visualization
+
+## 🌱 Currently learning
+
+- Python
+- R
+- Regression analysis
+- Git & GitHub
+
+## 📂 Projects
+
+### ⏱️ Reaction Time vs. Age
+Statistical analysis of the relationship between age and reaction time using R.
+
+### 🐍 Streaming Payment Manager
+A Python application developed as part of my programming studies.
+
+## 🎯 About my learning journey
+
+I'm currently developing my skills in statistics, programming, and data analysis through academic projects and hands-on practice.
+
+---
+
+⭐ Thanks for visiting my profile!
