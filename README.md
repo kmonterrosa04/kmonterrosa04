@@ -21,9 +21,6 @@
 
 ## 📂 Projects
 
-### ⏱️ Reaction Time vs. Age
-Statistical analysis of the relationship between age and reaction time using R.
-
 ### 🐍 Streaming Payment Manager
 A Python application developed as part of my programming studies.
 
